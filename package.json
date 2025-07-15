@@ -1,0 +1,23 @@
+{
+  "name": "phase-0-intro-to-js-2-objects-readme",
+  "version": "1.0.0",
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaWanjiru/phase-0-intro-to-js-2-objects-readme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaWanjiru/phase-0-intro-to-js-2-objects-readme/issues"
+  },
+  "homepage": "https://github.com/MariaWanjiru/phase-0-intro-to-js-2-objects-readme#readme",
+  "devDependencies": {
+    "mocha": "^11.7.1"
+  }
+}
